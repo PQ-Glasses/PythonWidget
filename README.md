@@ -24,6 +24,4 @@ python splitGIF.py filename.gif
 
 ![kali](https://github.com/PQ-Glasses/PythonWidget/blob/master/image/kali.png)
 
-## excelToDB.py
 
-暂时实现了将指定excel文件内容创建并添加到sqlite3数据库中
